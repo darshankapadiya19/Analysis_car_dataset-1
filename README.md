@@ -1,7 +1,7 @@
 # Analysis_car_dataset
 This repository contains analysis of car dataset (available at http://archive.ics.uci.edu/ml/datasets/Car+Evaluation) with various machine learning algorithms
 
-This project is made by me and https://github.com/darshankapadiya19
+This project is made by me https://github.com/darshankapadiya19 and my colleague https://github.com/yagneshmb
 
 We performed various algorithms on the dataset which includes:
 1. Logistic Regression
